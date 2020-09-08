@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 2px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.flaticon{
+  margin: 0;
+}
+
+
+hr {
+  border: dotted 6px;
+  border-width: 4% 0 0 0;
+  border-bottom: none;
+  width: 40px;
+  margin: 80px auto;
+  color: #EAF6F6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.middle-container {
+  margin: 80px 0;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.tribute {
+  font-size: 5px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+}
+
+.skill-game {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-suitcase {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.nospace {
+  margin: 0 auto;
+}
+
+.clear {
+  clear: left;
+}
+
+.intro {
+  color: #40514E;
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 30px auto 80px;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+  background-color: #11999E;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  padding: 11px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #8FCFD1 5%, #8FCFD1 100%);
+  background-color: #8FCFD1;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
