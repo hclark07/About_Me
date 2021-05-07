@@ -137,11 +137,107 @@ Hit the post button once you are ready to submit
 ```
 >![12_add_image_2](https://user-images.githubusercontent.com/69532931/117223047-aeed1b00-adc1-11eb-86ce-dd2cf242634a.png)
 
+>We can also add videos to our posts
+
+>![13_add_video](https://user-images.githubusercontent.com/69532931/117463701-d1d41800-af04-11eb-882f-7842e0f0c61b.png)
+
+>![14_add_video_2](https://user-images.githubusercontent.com/69532931/117463730-d6003580-af04-11eb-91a0-cd48cb019be6.png)
+
+>Users can comment on other posts
+
+>![15_add_comment](https://user-images.githubusercontent.com/69532931/117463795-e7494200-af04-11eb-8d71-c50e8f43f6d6.png)
+
+>![16_add_comment_2](https://user-images.githubusercontent.com/69532931/117463809-ea443280-af04-11eb-995b-b0670d4ac3dc.png)
+
+>Users can like others posts
+
+>![17_liking_post](https://user-images.githubusercontent.com/69532931/117463870-f6c88b00-af04-11eb-9510-56027da2883f.png)
+
+>Notice in the top right a notification icon pops up
+
+>![18_notification](https://user-images.githubusercontent.com/69532931/117463930-047e1080-af05-11eb-92f4-77849bdcff4f.png)
+
+>Lets go view the users profile
+```
+Users can access their profile by either clicking the right image icon and clicking on my profile
+Our users can click profile on the nav-bar
+```
+
+>![19_my_profile](https://user-images.githubusercontent.com/69532931/117464125-37c09f80-af05-11eb-87bf-2105e13d9095.png)
+
+>![20_my_profile_2](https://user-images.githubusercontent.com/69532931/117464140-3abb9000-af05-11eb-871b-f11de5ffe4ff.png)
+
+>This is the profile page. Notice on the left it loads only the users posts and on the right shows the users information. 
+
+>![21_my_profile_3](https://user-images.githubusercontent.com/69532931/117464321-6179c680-af05-11eb-81bd-307738bbf6d8.png)
+
+>Lets edit the users information
+```
+Hit the edit account below the users information
+Lets change our account name, add a description and add a new profile page.
+Hit the blue submit button when you are ready to submit. 
+```
+>![22_edit_profile](https://user-images.githubusercontent.com/69532931/117464746-d0efb600-af05-11eb-962f-002496d42d14.png)
+
+>![23_edit_profile](https://user-images.githubusercontent.com/69532931/117464751-d3521000-af05-11eb-9ce1-3e7a05d9fea5.png)
+
+>Now our profile has been updated. 
+
+>![24_edit_profile_3](https://user-images.githubusercontent.com/69532931/117464893-f67cbf80-af05-11eb-83c6-9383e372ec5a.png)
+
+>Lets view another users profile. 
+```
+Hit the users search in the nav-bar
+```
+>![25_search_users](https://user-images.githubusercontent.com/69532931/117465054-23c96d80-af06-11eb-81d4-953cdae652eb.png)
+
+>It takes you to an empty page with a search bar. Lets lookup admin. 
+
+>![26_search_users_2](https://user-images.githubusercontent.com/69532931/117465429-8b7fb880-af06-11eb-8fac-467fe3fbcdb1.png)
+
+>![27_search_user_3](https://user-images.githubusercontent.com/69532931/117465436-8de21280-af06-11eb-82ea-8ebb3993c756.png)
+
+>Similiar to our profile view it loads the users posts and their information on the right. 
+
+>Lets follow admin.
+
+>![28_follow_user](https://user-images.githubusercontent.com/69532931/117465955-0c3eb480-af07-11eb-9f52-96faa6dc9578.png)
+
+>Now that we followed a user. We can go back to our home page and view the users posts in our home feed. 
+
+>![29_first_follow](https://user-images.githubusercontent.com/69532931/117466074-2ed0cd80-af07-11eb-9e04-1c4e9312ab45.png)
+
+>Lets go view our chatroom functionality. 
+```
+Hit the chatroom in the nav-bar
+```
+
+>Notice that your user is loggedin into the chatroom.
+
+>![30_chatroom_2](https://user-images.githubusercontent.com/69532931/117466207-4c9e3280-af07-11eb-8c54-cd4ae5fa2ebf.png)
+
+>Lets have our admin also log in. 
+
+>![31_chatroom_2](https://user-images.githubusercontent.com/69532931/117466544-af8fc980-af07-11eb-821c-7313eb9d267d.png)
+
+>Now that we have two users, let's have them talk to each other. 
+
+>![32_chatroom_3](https://user-images.githubusercontent.com/69532931/117466608-c46c5d00-af07-11eb-8cfd-fee1c384620f.png)
+
+>![33_chatroom_4](https://user-images.githubusercontent.com/69532931/117466615-c6ceb700-af07-11eb-9305-c29df5311325.png)
+
+>![34_chatroom_5](https://user-images.githubusercontent.com/69532931/117466623-c8987a80-af07-11eb-9713-efca0f9a8142.png)
+
+>We can also logout. Click on your profile image in the right corner and hit the logout. 
+
+>![35_logout](https://user-images.githubusercontent.com/69532931/117466711-e239c200-af07-11eb-9d11-0ca1fd94300b.png)
+
+>![36_loggedout](https://user-images.githubusercontent.com/69532931/117466726-e534b280-af07-11eb-9a41-3a85446a9b7b.png)
 
 
+## **Contributors**
 
-
-
+This product was created by: Revature Full Stack batch of March 2021
 
 
 ## **License**
